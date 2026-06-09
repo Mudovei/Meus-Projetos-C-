@@ -1,0 +1,15 @@
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\bin\Debug\net8.0\Meus Projetos C#.exe
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\bin\Debug\net8.0\Meus Projetos C#.deps.json
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\bin\Debug\net8.0\Meus Projetos C#.runtimeconfig.json
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\bin\Debug\net8.0\Meus Projetos C#.dll
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\bin\Debug\net8.0\Meus Projetos C#.pdb
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\Meus Projetos C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\Meus Projetos C#.AssemblyInfoInputs.cache
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\Meus Projetos C#.AssemblyInfo.cs
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\Meus Projetos C#.csproj.CoreCompileInputs.cache
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\Meus Projetos C#.sourcelink.json
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\Meus Projetos C#.dll
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\refint\Meus Projetos C#.dll
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\Meus Projetos C#.pdb
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\Meus Projetos C#.genruntimeconfig.cache
+C:\Users\yuric\OneDrive\Documentos\MeusProjetos\Meus Projetos C#\obj\Debug\net8.0\ref\Meus Projetos C#.dll
